@@ -1,0 +1,1 @@
+D:\Study\CAS 771\CourseProject\Identifying-the-Person-of-a-Voice-using-Machine-Learning\IdentifyPerson\IdentifyPerson\IdentifyPerson\bin\Debug\IdentifyPerson.exe.config
